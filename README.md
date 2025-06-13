@@ -21,7 +21,7 @@ This is a robust and interactive **Personal Finance Tracker** built using **R Sh
 ## 🧱 Tech Stack
 
 - **Frontend**: R Shiny, shinydashboard, shinyjs, plotly, DT
-- **Backend**: MySQL (local or hosted)
+- **Backend**: MySQL (local)
 - **Authentication**: Role-based login system for Users, Admins, Advisors, and Bank Representatives
 - **Dependencies**:
   - `shiny`, `shinydashboard`, `shinyjs`, `plotly`, `DBI`, `RMySQL`, `DT`, `dplyr`, `tidyr`, `lubridate`
