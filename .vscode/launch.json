@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "type": "R-Debugger",
+            "request": "launch",
+            "name": "Debug R-File",
+            "debugMode": "file",
+            "workingDirectory": "/Users/mohith/Downloads/shinyApp",
+            "file": "/Users/mohith/Downloads/shinyApp/app.r",
+            "allowGlobalDebugging": true
+        }
+    ]
+}

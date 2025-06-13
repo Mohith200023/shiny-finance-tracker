@@ -1,0 +1,13 @@
+name: shinyApp
+title: shinyApp
+username: asv3el-sai-mohith
+account: asv3el-sai-mohith
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13697670
+bundleId: 10448918
+url: https://asv3el-sai-mohith.shinyapps.io/shinyApp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|.vscode/launch.json|test_debug.r
