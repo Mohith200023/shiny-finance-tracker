@@ -28,16 +28,6 @@ This is a robust and interactive **Personal Finance Tracker** built using **R Sh
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/shiny-finance-tracker.git
-cd shiny-finance-tracker
-
-
-
 ## 📸 Screenshots
 
 ### 🏠 Dashboard
@@ -55,3 +45,11 @@ cd shiny-finance-tracker
 
 ### 🧑‍💼 Admin Dashboard
 ![Admin Dashboard](screenshots/admin_dashboard.png)
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/shiny-finance-tracker.git
+cd shiny-finance-tracker
