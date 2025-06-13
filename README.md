@@ -36,6 +36,8 @@ This is a robust and interactive **Personal Finance Tracker** built using **R Sh
 git clone https://github.com/yourusername/shiny-finance-tracker.git
 cd shiny-finance-tracker
 
+
+
 ## 📸 Screenshots
 
 ### 🏠 Dashboard
@@ -50,8 +52,6 @@ cd shiny-finance-tracker
 ### 💡 Predicted Savings
 ![Savings Prediction](screenshots/savings_prediction.png)
 
-### 🎯 Goal Tracker
-![Goal Tracker](screenshots/goals_table.png)
 
 ### 🧑‍💼 Admin Dashboard
 ![Admin Dashboard](screenshots/admin_dashboard.png)
