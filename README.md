@@ -36,12 +36,8 @@ This is a robust and interactive **Personal Finance Tracker** built using **R Sh
 ### ➕ Add Income/Expense
 ![Add Transaction](screenshots/add_transaction.png)
 
-### 📊 Expense Distribution
-![Expense Distribution](screenshots/expense_chart.png)
-
 ### 💡 Predicted Savings
 ![Savings Prediction](screenshots/savings_prediction.png)
-
 
 ### 🧑‍💼 Admin Dashboard
 ![Admin Dashboard](screenshots/admin_dashboard.png)
